@@ -1,0 +1,26 @@
+@charset "utf-8";
+header {
+    color: #153AC9;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: normal;
+}
+body {
+    color: #010101;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+}
+background-color {
+    color: #2BF4F1;
+    background-color: #7ADCE4;
+}
+.cpu img {
+    clear: left;
+    top: auto;
+    float: left;
+}
+.colum2 img {
+    float: right;
+    top: 100px;
+    right: 400px;
+}
+
